@@ -1,9 +1,0 @@
-u# Binary files
-*.node
-node_modules/@next/swc-*
-node_modules/
-node_modules/
-.next/
-*.log
-node_modules/
-.next/
